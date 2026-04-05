@@ -6,3 +6,4 @@ edition = "2024"
 [dependencies]
 libc = { workspace = true }
 anyhow = { workspace = true }
+path-absolutize = "3.1.1"
